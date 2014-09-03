@@ -1,6 +1,6 @@
 {
     "name"       : "Slugify",
-    "version"    : "1.0",
+    "version"    : "1.1",
     "description": "Create a web friendly URL slug from a string.",
     "homepage"   : "https://gist.github.com/sgmurphy/3095196",
     "license"    : "Copyright 2012 Sean Murphy. All rights reserved."
